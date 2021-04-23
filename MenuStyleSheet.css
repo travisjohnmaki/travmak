@@ -1,0 +1,122 @@
+p{}
+h1{
+	font-family: arial, sans-serif;
+	font-size: 24px;
+	font-weight: bold;
+	color: red;
+}
+
+
+
+
+
+
+#container {
+
+	height: 920px;
+	width: 1000px;
+}
+
+#leftcollumn {
+
+	height: 920px;
+	width: 250px;
+	background-color: #5F605F;
+	float: left;
+
+}
+
+#rightcollumn {
+
+	height: 920px;
+	width: 250px;
+	background-color: #5F605F;
+	float: left;
+}
+
+#centercollumn {
+    display: block; 
+	height: 920px;
+	width: 319px;
+	background-color: tan;
+	float: left;
+}
+
+.tanheadings {
+  color: tan;
+  font:;
+  font-size: 45px;
+  text-align: center;
+  margin-top: 310px;
+  text-decoration: underline;
+  text-decoration-color: tan;
+}
+ 
+.tansubhead {
+	color: tan ;
+	font:;
+	font-size: 20px;
+	text-align: center;
+
+}
+
+.greyheadingtop {
+	color: #5F605F;
+	font:;
+	font-size: 45px;
+	text-align: center;
+	text-decoration: underline;
+	text-decoration-color: grey;
+
+}
+
+
+
+.greyheadingbottom {
+	color: #5F605F;
+	font:;
+	font-size: 45px;
+	text-align: center;
+	text-decoration: underline;
+	text-decoration-color: grey;
+	margin-top: 100px;
+
+}
+.greysubhead {
+	color: #5F605F;
+	font:;
+	font-size: 20px;
+	text-align: center;
+}
+
+
+#redrec {
+	height: 190px;
+	width: 230px;
+	background-color: #B95753;
+	margin-left: auto;
+	margin-right: auto;
+	padding-top: 40px;
+	margin-top:100px;
+	 
+	 
+}
+
+#minitanrec {
+	height: 150px;
+	width: 150px;
+	background-color: tan;
+    margin-left: auto;
+	margin-right: auto;
+
+}
+
+.greyheadingctr {
+	color: #5F605F;
+	font:;
+	font-size: 20px;
+	text-align: center;
+	margin-top: 54px;
+	float: left;
+	
+}
